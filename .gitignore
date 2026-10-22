@@ -1,3 +1,5 @@
+*.lock
+
 *.los
 
 ## Core latex/pdflatex auxiliary files:
